@@ -1,12 +1,12 @@
 <a href="https://rangdra.my.id">
-  <img src="https://rangdra.my.id/og-image.jpg" alt="Rangdra Pangestu — Full-Stack & Mobile Software Engineer" width="100%" />
+  <img src="https://rangdra.my.id/og-image.jpg" alt="Rangdra Pangestu — Software Engineer" width="100%" />
 </a>
 
 <h1 align="center">Hi, I'm Rangdra Pangestu 👋</h1>
 
 <p align="center">
   <a href="https://rangdra.my.id">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=560&lines=Full-Stack+%26+Mobile+Software+Engineer;React+%C2%B7+Next.js+%C2%B7+React+Native;NestJS+%C2%B7+PostgreSQL+%C2%B7+TypeScript" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=560&lines=Software+Engineer;React+%C2%B7+Next.js+%C2%B7+React+Native;NestJS+%C2%B7+PostgreSQL+%C2%B7+TypeScript" alt="Typing SVG" />
   </a>
 </p>
 
