@@ -42,12 +42,11 @@ I build end-to-end products — from pixel-perfect interfaces to the APIs behind
 
 | Project | What I built | Stack |
 | --- | --- | --- |
-| [**RE/MAX Indonesia**](https://remax.co.id/) | Property rent & buy platform with CMS and API | Next.js · NestJS · PostgreSQL · i18n |
+| [**RE/MAX Indonesia**](https://remax.co.id/) | Property rent & buy platform — web, mobile app, CMS & API | Next.js · React Native · NestJS · PostgreSQL |
+| **Astraland Indonesia** | Company profile with CMS and API | Next.js · Tailwind · NestJS · PostgreSQL |
 | [**Medeasy PH**](https://medeasy.ph/) | Digital health web, app & CMS — online doctor consultations | React · React Native · NestJS · PostgreSQL |
-| [**Vines Indonesia**](https://vines-indonesia.com/) | E-commerce for a beverage company — web, app & CMS | Next.js · React Native · Ant Design |
-| **Gudang Acai** | Warehouse logistics dashboard | React · Ant Design · ApexCharts |
-| **Astraland Indonesia** | Company profile with CMS and API | Next.js · Tailwind · NestJS |
-| **LED Borobudur Marathon** | Interactive wall system for Borobudur Marathon 2023 | HTML · CSS · Vanilla JS |
+| **AIDO MCU** | Medical Check-Up management CMS & API for clinics and hospitals | React · Next.js · Ant Design |
+| **Ziswaf** | Zakat, infaq, sedekah & wakaf mobile app with CMS and API | React Native · React · NestJS · PostgreSQL |
 
 👉 More projects and case studies at **[rangdra.my.id](https://rangdra.my.id)**
 
