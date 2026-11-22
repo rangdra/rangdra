@@ -44,7 +44,7 @@ I build end-to-end products — from pixel-perfect interfaces to the APIs behind
 | --- | --- | --- |
 | [**RE/MAX Indonesia**](https://remax.co.id/) | Property rent & buy platform — web, mobile app, CMS & API | Next.js · React Native · NestJS · PostgreSQL |
 | **Astraland Indonesia** | Company profile with CMS and API | Next.js · Tailwind · NestJS · PostgreSQL |
-| [**Medeasy PH**](https://medeasy.ph/) | Digital health web, app & CMS — online doctor consultations | React · React Native · NestJS · PostgreSQL |
+| [**Medeasy**](https://medeasy.ph/) | Digital health web, app & CMS — online doctor consultations | React · React Native · NestJS · PostgreSQL |
 | **AIDO MCU** | Medical Check-Up management CMS & API for clinics and hospitals | React · Next.js · Ant Design |
 | **Ziswaf** | Zakat, infaq, sedekah & wakaf mobile app with CMS and API | React Native · React · NestJS · PostgreSQL |
 
